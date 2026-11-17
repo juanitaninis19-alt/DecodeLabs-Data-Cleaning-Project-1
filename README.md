@@ -1,5 +1,4 @@
 # DecodeLabs-Data-Cleaning-Project-1
-# Data Cleaning and Preparation | DecodeLabs Internship
 
 ## Project Overview
 This project focuses on cleaning, validating, and preparing a sales dataset for reliable analysis. The objective was to improve data quality by addressing missing values, checking for duplicate records, verifying calculations, and ensuring consistent formatting.
