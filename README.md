@@ -35,9 +35,10 @@ This project focuses on cleaning, validating, and preparing a sales dataset for 
 - Documented the cleaning actions and verification results in a Change Log.
 
 ## Project Files
-- **Raw Dataset.xlsx:** Original dataset before cleaning.
-- **Cleaned Dataset.xlsx:** Cleaned and validated dataset.
-- **Change Log.pdf:** Documentation of cleaning actions, reasons, and outcomes.
+- **Dataset for Data Analytics.xlsx:** Excel workbook containing two worksheets:
+  - **Sheet 1:** Original raw dataset before cleaning.
+  - **Sheet 2:** Cleaned and validated dataset.
+- **Change Log.pdf:** Documentation of the cleaning actions, verification checks, and their outcomes.
 
 ## Key Results
 - 309 missing Coupon Code values addressed.
